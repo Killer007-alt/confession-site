@@ -12,12 +12,12 @@ import "swiper/css/navigation"
 import "swiper/css/pagination"
 
 export default function PhotoGallery() {
-  const photos = [
-    "/images/1.jpg",
-    "/images/2.jpg",
-    "/images/3.jpg",
-    "/images/4.jpg",
-  ]
+const photos = [
+  "/images/Snapchat-1681876362.jpg",
+  "/images/Snapchat-1754831128.jpg",
+  "/images/Snapchat-2082969606.jpg",
+  "/images/Snapchat-261752186.jpg",
+]
 
   return (
     <motion.div
